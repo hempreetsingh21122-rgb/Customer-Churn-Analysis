@@ -20,29 +20,6 @@ This project analyzes customer churn using Excel to identify key drivers of cust
 - Low or no usage increases churn risk  
 - Usage alone does not guarantee retention  
 - Customers without dependents and bank withdrawal users show higher churn
-
-  ## 📊 Churn Analysis & Key Drivers
-
-### 📌 Contract Type Impact
-
-
-- Higher churn in month-to-month contracts highlights the impact of low commitment and flexibility.
-
----
-
-### 📌 Usage vs Churn Behavior
-![Chart](images/chart2.png)
-
-- Even highly engaged customers churn under flexible contracts, showing that service usage alone does not ensure retention.
-
----
-
-### 📌 Understanding the Real Churn Story
-![Chart](images/chart3.png)
-
-- Although full-usage customers appear to have lower overall churn, a deeper view shows significant churn within month-to-month and one-year segments, indicating that distribution can be misleading.
-
-- This confirms that high-value customers are not fully secure and that perceived value, contract type, and service experience play a crucial role in retention.
   
 ## 💡 Recommendations
 - Promote long-term contracts with discounts, bundled offers, and mid-term plans to reduce churn among month-to-month users.  
