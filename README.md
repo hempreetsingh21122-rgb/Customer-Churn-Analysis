@@ -22,9 +22,6 @@ This project analyzes customer churn using Excel to identify key drivers of cust
 - Customers without dependents and bank withdrawal users show higher churn
 
  ## 📊 Data Visualizations & Key Insights
-
-## 🔍 Key Insights
-
 ### 📌 Month-to-Month Contracts Drive Highest Churn
 <img src="chart1.png" width="400">
 - Customers with **month-to-month contracts exhibit the highest churn rates**.
@@ -41,14 +38,15 @@ This project analyzes customer churn using Excel to identify key drivers of cust
 
 ---
 
-### 📌 Tenure Growth Improves Retention
+### 📌 Offers and Tenure Together Drive Churn Behavior
 <p align="center">
-  <img src="chart5.png" width="45%">
   <img src="chart4.png" width="45%">
+  <img src="chart5.png" width="45%">
 </p>
-- As **customer tenure increases**, there is a shift from **month-to-month to long-term contracts**, leading to lower churn rates.
-- Offer distribution shows a progression from **Offer E → D → C → B → A** with increasing tenure.
-- This suggests that offers may be **encouraging long-term commitment**, although the **no-offer segment still contributes significantly to churn**.
+- As seen in **Chart 1**, churn rate varies across offers, with offers distributed from **Offer E to Offer A across increasing tenure levels**.
+- **Chart 2** shows that customer distribution shifts with offers, where **higher-tenure offers (like Offer A)** have more customers in long-term contracts, while **lower-tenure offers (like Offer E)** are dominated by month-to-month customers.
+- This suggests that **offers may help move customers toward long-term contracts**, which can lead to **greater stability and lower churn**.
+- However, the **no-offer segment still contributes significantly to churn**.
 
 ---
 
@@ -57,10 +55,10 @@ This project analyzes customer churn using Excel to identify key drivers of cust
   <img src="chart6.png" width="45%">
   <img src="chart7.png" width="45%">
 </p>
-- Customers with **no usage have the highest churn**, driven by low engagement.
-- However, even **high-usage customers churn under month-to-month contracts**.
-- This indicates that **usage alone is not enough** — factors like **pricing and perceived value** play a crucial role.
-
+- **Full usage**: customers using all included services, **Partial usage**: using some services, **No usage**: not using any included services.
+- As seen in **Chart 1**, customers with **no or partial usage have higher churn**, while **full-usage customers show relatively lower churn**.
+- However, **Chart 2** shows that under **month-to-month contracts**, churn remains high **regardless of usage level**.
+- This indicates that **service usage alone is not sufficient for retention** — factors like **pricing, value perception, and contract type** also play a crucial role.
 ---
 
 ### 📌 Low Engagement & Easy Exit Increase Churn
