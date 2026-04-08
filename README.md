@@ -76,6 +76,10 @@ This project analyzes customer churn using Excel to identify key drivers of cust
 - Churn is **highest within the first 6 months** of customer lifecycle.
 - It decreases steadily as tenure increases.
 - This highlights a **critical early-stage retention window** where intervention is most needed.
+
+## 📄 Detailed Report
+
+[View Full Report](Telecom Customer Churn Analysis)
     
 ## 💡 Recommendations
 - Promote long-term contracts with discounts, bundled offers, and mid-term plans to reduce churn among month-to-month users.  
