@@ -79,8 +79,8 @@ This project analyzes customer churn using Excel to identify key drivers of cust
 
 ## 📄 Detailed Report
 
-[View Full Report](Telecom Customer Churn Analysis)
-    
+[View Full Report](Telecom%20Customer%20Churn%20Analysis.pdf)
+
 ## 💡 Recommendations
 - Promote long-term contracts with discounts, bundled offers, and mid-term plans to reduce churn among month-to-month users.  
 - Improve fiber optic customer retention by enhancing service quality and introducing loyalty programs.  
